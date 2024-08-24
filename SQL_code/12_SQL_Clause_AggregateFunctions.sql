@@ -1,4 +1,3 @@
--- Instructions:
 -- Temporary tables in SQL. 
 -- Temporary tables are useful for storing and manipulating data within the scope of a session or a transaction.
 
